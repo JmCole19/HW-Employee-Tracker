@@ -7,9 +7,9 @@ Employee tracker is an app that allows Users to track employee data utilizing a 
 ## Dependencies
 
 Employee Tracker utilizes 3 dependencies:
-mysql
-console.table
-inquierer
+mysql,
+console.table,
+and inquierer
 
 ## Contributing
 
